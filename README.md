@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # Deep Neural Networks me PyTorch
 
 **Platformë mësimore në shqip dhe kodi i plotë i kursit, nga tensorët e parë deri te një CNN.**
@@ -37,10 +35,6 @@
 
 ## Programi i kursit
 
-<p align="center">
-  <img src="assets/roadmap.svg" alt="Rruga e të mësuarit në 7 javë" width="100%">
-</p>
-
 | Java | Tema | Çfarë mëson |
 |:---:|---|---|
 | 1 | Tensorët dhe diferencimi automatik | Tensorët 1D dhe 2D, llojet e të dhënave, `requires_grad` dhe `backward()`. |
@@ -66,19 +60,11 @@
 
 CNN-ja e trajnuar në FashionMNIST për 5 epoka (SGD, `lr = 0.1`, `batch_size = 100`): kostoja bie vazhdimisht, ndërsa saktësia në validim rritet nga rreth 83% në rreth 88%.
 
-<p align="center">
-  <img src="assets/week7-cost-accuracy.png" alt="Kostoja dhe saktësia gjatë trajnimit" width="560">
-</p>
-
 ## Struktura e repository-t
 
 ```
 .
 ├── README.md
-├── assets/
-│   ├── banner.svg
-│   ├── roadmap.svg
-│   └── week7-cost-accuracy.png
 ├── course-code/
 │   ├── Week 1/   tensorët
 │   ├── Week 2/   regresioni linear, SGD
