@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Deep Neural Networks me PyTorch" width="100%">
+
 
 # Deep Neural Networks me PyTorch
 
